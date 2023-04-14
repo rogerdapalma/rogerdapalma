@@ -7,7 +7,7 @@
  
 
 ## Estou aprendendo: 
-JAVA,JS,C,C++,C#,MYSQL,PYTHON,HTML,CSS
+JAVA  JS  C  C++  C#  MYSQL  PYTHON , HTML  CSS
 
 <p align="center">
  
