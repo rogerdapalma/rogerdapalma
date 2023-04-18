@@ -7,7 +7,7 @@
  
 
 ## Estou aprendendo: 
-JAVA  JS  C  C++  C#  MYSQL  PYTHON , HTML  CSS
+Java  JavaScript C  C++  C#  MyQSL  Python  HTML  CSS NodeJS
 
 <p align="center">
  
