@@ -38,6 +38,7 @@
 </div>
 
 
+![Snake animation](https://github.com/rogerdapalma/rogerdapalma/blob/output/github-contribution-grid-snake.svg)
 
 
 
