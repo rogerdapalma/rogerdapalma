@@ -1,4 +1,4 @@
-## <h1> <strong> Bem-vindo ao meu</strong> <img align="center" alt="Roger-Git" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"> !!! </h1>
+## <h1> <strong> Bem-vindo ao meu GitHub</strong> !!! </h1>
 Cursando Ciência da Computação
 
 <div>
