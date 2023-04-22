@@ -1,17 +1,12 @@
-## <strong> Bem-vindo ao meu</strong> <img align="center" alt="Roger-Git" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"> !!! 
-
+## <h1> <strong> Bem-vindo ao meu</strong> <img align="center" alt="Roger-Git" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"> !!! </h1>
+Cursando Ciência da Computação
 
 <div>
   <a href="https://github.com/rogerdapalma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerdapalma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdapalma&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-
- 📖 Estudante de Ciência da Computação
- 
- 
-
+  
 ## Estou aprendendo: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roger-Js" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
