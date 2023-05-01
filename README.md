@@ -22,8 +22,6 @@ Cursando Ciência da Computação
   
 </div>
 
-</div>
-
 <p align="center">
  
 
