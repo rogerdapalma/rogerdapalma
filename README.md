@@ -1,7 +1,6 @@
 ## <h1> <strong> Bem-vindo ao meu GitHub</strong> !!! </h1>
 Cursando Ciência da Computação
 
-  
 ## Estou aprendendo: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roger-Js" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
