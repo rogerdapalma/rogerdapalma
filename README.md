@@ -18,9 +18,7 @@ Cursando Ciência da Computação
 </div>
 
 <p align="center">
- 
 
-</p> 
 
 ## Redes sociais:
 <div> 
