@@ -3,7 +3,7 @@ Cursando Ciência da Computação
 
 <div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerdapalma&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdapalma&layout=compact&langs_count=10&theme=dark)](https://github.com/rogerdapalma/github-readme-stats)
 </div>
  
 
