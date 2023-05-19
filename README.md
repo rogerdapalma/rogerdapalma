@@ -1,5 +1,5 @@
-## <h1> <strong> Bem-vindo ao meu GitHub</strong> !!! </h1>
-Cursando Ciência da Computação
+## <h1> <strong> Hello, I'm Roger Palma </strong> !!! </h1>
+Computer Science Academic - UFN.
 
 <div>
  
@@ -8,7 +8,7 @@ Cursando Ciência da Computação
  
 
 
-## Estou aprendendo: 
+## I am learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="Roger-Js" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roger-NodeJS" height="70" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
@@ -24,7 +24,7 @@ Cursando Ciência da Computação
 <p align="center">
 
 
-## Redes sociais:
+## Social media:
 <div> 
   <a href="https://www.instagram.com/rogerpalma_/?utm_medium" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rogerdapalma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
