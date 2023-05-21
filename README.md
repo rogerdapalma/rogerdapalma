@@ -4,9 +4,8 @@ Computer Science Academic - UFN.
 <div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdapalma&layout=compact&langs_count=10&theme=dark)](https://github.com/rogerdapalma/github-readme-stats)
+<img height="194em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogerdapalma&theme=dark"/>
 </div>
- 
-
 
 ## I am learning:
 <div style="display: inline_block"><br>
