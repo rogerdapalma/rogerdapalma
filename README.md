@@ -4,7 +4,7 @@ Computer Science Academic - UFN.
 <div>
   
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogerdapalma&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdapalma&layout=compact&langs_count=15&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdapalma&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
 </div>
 
 ## I am learning:
