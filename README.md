@@ -3,8 +3,7 @@
 
 I'm a passionate learner and developer, constantly exploring new technologies and improving my skills.
 
-![Roger's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogerdapalma&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdapalma&layout=compact&langs_count=10&theme=dark&hide_border=true)
+
 
 ## 🌱 I'm currently learning:
 
